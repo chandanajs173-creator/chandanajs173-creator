@@ -19,7 +19,7 @@ Hello! I'm a passionate developer who enjoys learning new technologies, building
 ---
 
 ## 📚 Currently Learning
-- Full Stack Development
+
 - Backend Concepts
 - Open Source Contribution
 
